@@ -1,0 +1,10 @@
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\bin\Debug\netcoreapp3.1\ErtuncMarsRobot.exe
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\bin\Debug\netcoreapp3.1\ErtuncMarsRobot.deps.json
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\bin\Debug\netcoreapp3.1\ErtuncMarsRobot.runtimeconfig.json
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\bin\Debug\netcoreapp3.1\ErtuncMarsRobot.runtimeconfig.dev.json
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\bin\Debug\netcoreapp3.1\ErtuncMarsRobot.dll
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\bin\Debug\netcoreapp3.1\ErtuncMarsRobot.pdb
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\obj\Debug\netcoreapp3.1\ErtuncMarsRobot.AssemblyInfoInputs.cache
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\obj\Debug\netcoreapp3.1\ErtuncMarsRobot.AssemblyInfo.cs
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\obj\Debug\netcoreapp3.1\ErtuncMarsRobot.dll
+C:\Users\ertunc\Source\Repos\ErtuncMarsRobot\ErtuncMarsRobot\obj\Debug\netcoreapp3.1\ErtuncMarsRobot.pdb
